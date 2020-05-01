@@ -17,7 +17,7 @@ image1 = Image.open("host_image.jpeg")
 image1_array = np.asarray(image1)
 tup1 = image1_array.shape
 print("*************************************************************************************************")
-print("                                WATERMARKING USING DCT                                    ")
+print("                                WATERMARKING USING DCT                                           ")
 print("*************************************************************************************************")
 print("")
 print("******************************* DIMENSION AND SIZE OF COVER IMAGE *******************************")
